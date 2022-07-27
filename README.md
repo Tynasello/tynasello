@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/ty-nasello/)
+
+- [Tynasello.com](tynasell0.com)
+
 <!--
 **Tynasello/tynasello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
